@@ -6,3 +6,7 @@ body {
 h1 {
   font-family: 'Lobster', cursive;
 }
+
+#title {
+  color: rgba(255,20,147,0.8);
+}
